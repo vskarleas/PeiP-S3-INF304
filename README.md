@@ -30,4 +30,4 @@ Ce cours est conçu pour fournir aux étudiants les connaissances nécessaires p
 
 **PeiP-S3-INF304** © 2024 by **Vasileios Filippos Skarleas**, **Gwendal Trehin**, and **Noan Simon** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This work also includes content that is not the property of **Vasileios Filippos Skarleas**, **Gwendal Trehin**, and **Noan Simon** and is subject to copyright and other licenses from their respective owners.
+This work also includes content that is not the property of **Vasileios Filippos Skarleas**, **Gwendal Trehin**, and **Noan Simon** and is subject to copyright and other licenses from their respective owners
